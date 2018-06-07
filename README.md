@@ -14,8 +14,6 @@ Express.js
 Webpack - compression needs some work
 
 
-##Instructions
-
+## Instructions
 Run "npm install"
-
 Run "npm run start"
